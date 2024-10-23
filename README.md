@@ -1,11 +1,13 @@
 # MultiThreaded Web Server using Java
 
 <b>This project demonstrates Java's multithreading capabilities!.</b>
+<br>
 High-performance, Multithreaded web server capable of handling up to 1 million concurrent requests.<br>
 Built with Java, the server utilizes efficient thread management and thread pooling to ensure optimal resource utilization and minimal latency.
 
-<hr>
-## What is a Server?
+<br>
+<h3> What is a Server? </h3> 
+<br>
 A Server serves static/dynamic content to users.
 
 <hr>
